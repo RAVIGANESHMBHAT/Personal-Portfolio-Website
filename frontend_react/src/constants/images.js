@@ -26,7 +26,7 @@ import about04 from '../assets/about04.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 import ravi_logo from '../assets/ravi_logo.png';
-import ravi_profile from '../assets/ravi_profile1.png';
+import ravi_profile from '../assets/ravi_profile2.png';
 import firebase from '../assets/firebase.png';
 
 import adidas from '../assets/adidas.png';
